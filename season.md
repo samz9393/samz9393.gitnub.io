@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /season.html
+---
 # Sherwood Park Titans
 
 ## Our 2026 Season
